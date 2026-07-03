@@ -1,6 +1,24 @@
-## Hi there 👋
+# Adam M. Słociński
+
+I enjoy gathering evidence and translating it into insight for decision-makers, so they can anticipate rather than react to complexity.
+
+## Expertise
+
+## Technical skills
+
+## Thought leadership
+
+## Featured
+
+## Support
+
+## Contact
+
+[email]() | [cv]() 
 
 <!--
+## Hi there 👋
+
 **asloci/asloci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
