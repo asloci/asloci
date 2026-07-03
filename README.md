@@ -14,7 +14,7 @@ I enjoy gathering evidence and translating it into insight for decision-makers, 
 
 ## Contact
 
-[email]() | [cv]() 
+[email](mailto:fbbgqh51@duck.com)
 
 <!--
 ## Hi there 👋
