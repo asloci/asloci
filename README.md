@@ -8,10 +8,10 @@ Solo data & AI engineer behind [Balans.ca](https://balans.ca).
 
 Everything I deliver runs on tools you can inspect, host yourselves, and hand off without a license fee.
 
-- 🦙 **Local LLM inference**: Open-weight models running on hardware you control
-- 🍃 **marimo**: Modern, reactive, reproducible notebooks
-- 🦆 **DuckDB & DuckLake**: Fast SQL analytics and lakehouse tables without a cloud warehouse
-- 📖 **Quarto**: Accessible, multi-format, publish-ready reports
+🦙 **Local LLM inference**: Open-weight models running on hardware you control
+🍃 **marimo**: Modern, reactive, reproducible notebooks
+🦆 **DuckDB & DuckLake**: Fast SQL analytics and lakehouse tables without a cloud warehouse
+📖 **Quarto**: Accessible, multi-format, publish-ready reports
 
 ## Contact
 
