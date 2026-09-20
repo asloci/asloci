@@ -1,6 +1,17 @@
 # Adam M. Słociński
 
-I help public-sector teams run private, auditable AI and analytics on their own machines, without a cloud bill, a GPU budget, or a vendor contract that outlives the project. Solo data & AI engineer behind Balans.ca 
+I help public-sector teams run private, auditable AI and analytics on their own machines, without a cloud bill, a GPU budget, or a vendor contract that outlives the project.
+
+Solo data & AI engineer behind [Balans.ca](https://balans.ca).
+
+## Open-source stack
+
+Everything I deliver runs on tools you can inspect, host yourselves, and hand off without a license fee.
+
+- 🦙 **Local LLM inference**: Open-weight models running on hardware you control
+- 🍃 **marimo**: Modern, reactive, reproducible notebooks
+- 🦆 **DuckDB & DuckLake**: Fast SQL analytics and lakehouse tables without a cloud warehouse
+- 📖 **Quarto**: Accessible, multi-format, publish-ready reports
 
 ## Contact
 
