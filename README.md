@@ -1,20 +1,10 @@
 # Adam M. Słociński
 
-I enjoy gathering evidence and translating it into insight for decision-makers, so they can anticipate rather than react to complexity.
-
-## Expertise
-
-## Technical skills
-
-## Thought leadership
-
-## Featured
-
-## Support
+I help public-sector teams run private, auditable AI and analytics on their own machines, without a cloud bill, a GPU budget, or a vendor contract that outlives the project.
 
 ## Contact
 
-[Email](mailto:fbbgqh51@duck.com)
+[Email](mailto:adam@balans.ca)
 
 <!--
 ## Hi there 👋
