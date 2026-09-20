@@ -1,8 +1,8 @@
 # Adam M. Słociński
 
-I help public-sector teams run private, auditable AI and analytics on their own machines, without a cloud bill, a GPU budget, or a vendor contract that outlives the project.
+I help public-sector teams get value from their data and AI without vendor lock-in, multi-year contracts, or sending sensitive data to third-party clouds. I do this by helping them run private, auditable AI and analytics on their own machines, using an open-source stack.
 
-Solo data & AI engineer behind [Balans.ca](https://balans.ca).
+Independent data & AI engineer behind [Balans.ca](https://balans.ca).
 
 ## Open-source stack
 
