@@ -6,12 +6,12 @@ Independent data & AI engineer behind [Balans.ca/eu](https://balans.ca/eu).
 
 ## Open-source stack
 
-Everything I deliver runs on tools you can inspect, host yourselves, and hand off without a license fee.
+Everything I deliver runs on tools you can inspect, host yourselves, and hand off without a license fee — all are industry-adopted.
 
-- 🦙 **Local LLM inference**: Open-weight models running on hardware you control  
-- 🍃 **marimo**: Modern, reactive, reproducible notebooks  
-- 🦆 **DuckDB & DuckLake**: Fast SQL analytics and lakehouse tables without a cloud warehouse  
-- 📖 **Quarto**: Accessible, multi-format, publish-ready reports  
+- 🦆 **DuckDB & DuckLake**: Fast SQL analytics and lakehouse tables without a cloud warehouse. The core team [joined AWS in 2026](https://www.aboutamazon.com/news/company-news/aws-ducklabs); the database itself stays MIT-licensed and open.
+- 🦙 **Ollama**: Open-weight LLM inference on hardware you control. [$88M Series B](https://ollama.com/blog/all-aboard-open-models) (Benchmark, Theory Ventures); used across the Fortune 500.
+- 🍃 **marimo**: Reactive, reproducible, Git-friendly notebooks. [Acquired by CoreWeave](https://www.coreweave.com/news/coreweave-acquires-marimo-to-unify-the-generative-ai-developer-workflow) (Nasdaq: CRWV) in 2025; still open source under the same team.
+- 📖 **Quarto**: Accessible, multi-format, publish-ready reports. [Quarto 2](https://opensource.posit.co/blog/2026-04-06_whats-next-quarto-2/), a Rust rewrite with collaborative editing, is in development at Posit (formerly RStudio).
 
 ## Contact
 
